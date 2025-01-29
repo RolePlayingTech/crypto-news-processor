@@ -26,7 +26,7 @@
 
 ### 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/yourusername/crypto-news-processor.git
+git clone https://github.com/RolePlayingTech/crypto-news-processor
 cd crypto-news-processor
 ```
 
@@ -38,6 +38,7 @@ pip install -r requirements.txt
 ### 3️⃣ Create a `.env` file:
 ```ini
 OPENAI_API_KEY=your_api_key_here
+OPENAI_BASE_URL=https://models.inference.ai.azure.com
 ```
 
 ---
